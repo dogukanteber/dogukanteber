@@ -20,7 +20,6 @@
 
 <h2 align="center">:microphone:Contact Me!</h2>
 <p align="center">
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
   <strong><a href="https://www.linkedin.com/in/dogukanteber">LinkedIn</a></strong> |
   <strong><a href="mailto:dogukanteber1@hotmail.com">E Mail</a></strong>
 </p>
