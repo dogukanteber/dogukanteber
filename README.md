@@ -6,7 +6,7 @@
 
 <p align="center">:school_satchel: My name is Doğukan, sophomore software engineering student</p>
 <p align="center">:surfer:I am currently learning C</p>
-<p align="center">:space_invader: I also play CTF, check out <a href="https://www.tryhackme.com/p/dogukanteber">TryHackMe</a></p>
+<p align="center">:space_invader: I also play CTF, check out <a href="https://www.tryhackme.com/p/dogukanteber">TryHackMe</a>, <a href="https://app.hackthebox.eu/profile/666597">HackTheBox</<a></p>
 
 <br>
 
