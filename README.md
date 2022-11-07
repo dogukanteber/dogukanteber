@@ -5,8 +5,7 @@
 
 
 <p align="center">:school_satchel: My name is Doğukan, senior software engineering student</p>
-<p align="center">:surfer: I am currently doing an internship about CFD at <a href="https://www.get.omp.eu">GET</a> which I am developing a utility for <a href="https://www.openfoam.com/">OpenFOAM</a>. For more detail, you can check out <a href="https://summerofhpc.prace-ri.eu/dogukan-teber/">this blog</a></p>
-<p align="center">:atom: My interests are Back-end Web Development, High Processing Computing and Cyber Security</p>
+<p align="center">:atom: My interests are Back-end Web Development, High Processing Computing and Artificial Intelligence</p>
 <p align="center">:space_invader: I am also a noob CTF player, you check out <a href="https://www.tryhackme.com/p/dogukanteber">TryHackMe</a>, <a href="https://app.hackthebox.eu/profile/666597">HackTheBox</<a></p>
 
 <br>
