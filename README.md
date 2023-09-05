@@ -4,18 +4,18 @@
 
 
 
-<p align="center">:school_satchel: My name is Doğukan, senior software engineering student</p>
-<p align="center">:atom: My interests are Back-end Web Development, High Processing Computing and Artificial Intelligence</p>
-<p align="center">:space_invader: I am also a noob CTF player, you check out <a href="https://www.tryhackme.com/p/dogukanteber">TryHackMe</a>, <a href="https://app.hackthebox.eu/profile/666597">HackTheBox</<a></p>
+<p align="center">:school_satchel: My name is Doğukan, Software Engineer</p>
+<p align="center">:atom: My expertise is Back-end Web Development</p>
+<p align="center">🤖 My interests are High Processing Computing and Artificial Intelligence</p>
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8" />
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8"/>
-</p>
+<div align="center">
+  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</div>
 
 <h2 align="center">:microphone:Contact Me!</h2>
 <p align="center">
