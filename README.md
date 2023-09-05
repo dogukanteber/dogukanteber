@@ -4,7 +4,7 @@
 
 
 
-<p align="center">:school_satchel: My name is Doğukan, Software Engineer</p>
+<p align="center">:school_satchel: My name is Doğukan</p>
 <p align="center">:atom: My expertise is Back-end Web Development</p>
 <p align="center">🤖 My interests are High Processing Computing and Artificial Intelligence</p>
 
